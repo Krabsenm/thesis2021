@@ -1,0 +1,6 @@
+,metrics,score
+0,loss,1.0866820829446588
+1,Attractive_loss,0.4733192026615143
+2,Male_loss,0.6133627891540527
+3,Attractive_binary_accuracy,0.7814005017280579
+4,Male_binary_accuracy,0.38663724064826965

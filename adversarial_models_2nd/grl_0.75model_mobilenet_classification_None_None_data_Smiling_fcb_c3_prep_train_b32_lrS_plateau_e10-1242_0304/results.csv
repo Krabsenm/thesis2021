@@ -1,0 +1,6 @@
+,metrics,score
+0,loss,2.2838457135863326
+1,Smiling_loss,0.1790982186794281
+2,Male_loss,2.1047468185424805
+3,Smiling_binary_accuracy,0.9266151785850525
+4,Male_eo_accuracy,0.38663724064826965
